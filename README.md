@@ -34,7 +34,7 @@ Figma
 
 ## CODE:
 
-HTML
+```HTML
 
 <!DOCTYPE html>
 <html lang="en">
@@ -141,6 +141,7 @@ a.prototype-link {
   box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.5);
   background-color: rgba(95, 167, 222, 1);
 }
+```
 
 ## OUTPUT:
 
